@@ -7,9 +7,9 @@
 Informação sobre tecnologia, dicas, tutoriais, mini-cursos e muito mais.
 </h2>
 
-### Curso ReactJS Essencial com Next.js, Typescript, React Query, Next-Auth, Material-UI, etc.
+### Curso ReactJS Essencial com Next.js, Typescript, Styled Components, SASS, Prismic CMS, Code Splitting, Testes Automatizados, Deploy, etc.
 
-Seja muito bem-vindo ao curso prático: ReactJS Essencial com Next.js, Typescript, React Query, Next-Auth, Material-UI, entre outros recursos.
+Seja muito bem-vindo ao curso prático: ReactJS Essencial com Next.js, Typescript, Styled Components, SASS, Prismic CMS, Code Splitting, Testes Automatizados, Deploy, entre outros recursos.
 
 Este repositório Git é a estrutura inicial já com toda a configuração básica de uma das aplicações que aprenderemos a criar ao longo do curso. O nome do app é GitCollection.
 
